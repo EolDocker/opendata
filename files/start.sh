@@ -1,4 +1,4 @@
 #!/bin/sh
 
 chmod a+rx /
-nginx -g daemon off
+nginx -g "daemon off;"
